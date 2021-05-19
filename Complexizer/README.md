@@ -36,3 +36,8 @@ def my_func(n):
 ```
 
 ![Figure2](img/Figure_1.png)
+
+
+### By
+### Siddhant Dixit
+### 20bcs123
