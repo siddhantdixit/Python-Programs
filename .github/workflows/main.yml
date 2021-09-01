@@ -9,6 +9,6 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: 'Auto-assign issue'
-              uses: siddhantdixit/randomAssignBOT@v1
+              uses: siddhantdixit/randomAssignBOT@v1.0
               with:
                   assignees: siddhantdixit,twentythreeapril
