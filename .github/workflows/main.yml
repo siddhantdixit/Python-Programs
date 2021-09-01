@@ -9,7 +9,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: 'Auto-assign issue'
-              uses: siddhantdixit/randomAssignBOT
+              uses: siddhantdixit/randomAssignBOT@v1
               with:
                   repo-token: ${{ github.token }}
                   assignees: siddhantdixit,twentythreeapril
