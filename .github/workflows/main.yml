@@ -9,6 +9,6 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: 'Auto-assign issue'
-              uses: siddhantdixit/auto-assign-issue@v2.2
+              uses: siddhantdixit/auto-assign-issue@v2.3
               with:
                   assignees: siddhantdixit,twentythreeapril
